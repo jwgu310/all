@@ -7,7 +7,7 @@ h3,p{
     overflow: hidden;
 }
 .keNan:hover{
-    animation: rotate 1s both;
+    animation: rotate 1s infinite both;
 }
 @keyframes rotate {
     0%{
